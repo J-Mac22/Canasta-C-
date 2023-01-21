@@ -1,0 +1,17 @@
+﻿  Human.cpp
+c:\users\jack\source\repos\canasta c++\canasta c++\human.cpp(569): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\source\repos\canasta c++\canasta c++\human.cpp(573): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\source\repos\canasta c++\canasta c++\human.cpp(668): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\source\repos\canasta c++\canasta c++\human.cpp(845): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\source\repos\canasta c++\canasta c++\human.cpp(851): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\source\repos\canasta c++\canasta c++\human.cpp(875): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\source\repos\canasta c++\canasta c++\human.cpp(883): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\source\repos\canasta c++\canasta c++\human.cpp(899): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\source\repos\canasta c++\canasta c++\human.cpp(906): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\source\repos\canasta c++\canasta c++\human.cpp(968): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\source\repos\canasta c++\canasta c++\human.cpp(1040): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\source\repos\canasta c++\canasta c++\human.cpp(1069): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\source\repos\canasta c++\canasta c++\human.cpp(1170): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\source\repos\canasta c++\canasta c++\human.cpp(1175): warning C4018: '<': signed/unsigned mismatch
+c:\users\jack\source\repos\canasta c++\canasta c++\human.cpp(1210): warning C4018: '<': signed/unsigned mismatch
+  Canasta C++.vcxproj -> C:\Users\Jack\source\repos\Canasta C++\Debug\Canasta C++.exe
